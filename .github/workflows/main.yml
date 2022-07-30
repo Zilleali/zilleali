@@ -1,10 +1,21 @@
-jobs:
-  devcard:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.6
-        with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+- name: @dailydotdev/devcard
+  # You may pin to the exact commit or the version.
+  # uses: dailydotdev/action-devcard@98403c6d50dd3c4ac28fd8e5b24987920aa19af3
+  uses: dailydotdev/action-devcard@2.0.6
+  with:
+    # The ID of the devcard
+    devcard_id: 2d562ad06d12484f96147eee1686c04e
+    # GitHub Token used to commit the devcard
+    token:  ${{ github.token }}
+    # optional, default is ${{ github.token }}
+    # Branch used to commit the devcard
+    commit_branch: Commit message
+    # optional, default is 
+    # Commit message
+    commit_message: ${filename}
+    # optional, default is Update ${filename}
+    # Filename to save devcard to
+    commit_filename: devcard.svg
+    # optional, default is devcard.svg
+    # If true, no changes will be made to the repo
+    dryrun: # optional
