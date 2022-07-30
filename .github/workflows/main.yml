@@ -4,7 +4,7 @@
   uses: dailydotdev/action-devcard@2.0.6
   with:
     # The ID of the devcard
-    devcard_id: 2d562ad06d12484f96147eee1686c04e
+    devcard_id: ${{ secrets.DEVCARD_ID }}
     # GitHub Token used to commit the devcard
     token:  ${{ github.token }}
     # optional, default is ${{ github.token }}
