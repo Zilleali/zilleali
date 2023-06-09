@@ -10,10 +10,10 @@
 [![Twitter: ZILL E ALI](https://img.shields.io/twitter/follow/ZILLEALI11?style=social)](https://twitter.com/ZILLEALI11)
 [![Linkedin: ZILL E ALI](https://img.shields.io/badge/-ZILLEALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zilleali12/)](https://www.linkedin.com/in/zilleali12/)
 [![GitHub ZILL E ALI](https://img.shields.io/github/followers/zilleali?label=follow&style=social)](https://github.com/zilleali)
- <a href="https://codepen.io/zilleali?utm_source=explore-tab"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=zilleali&color=%230076D6&style=flat&logo=codepen&logoColor=%230076D6" alt="website"/></a>
+ <a href="https://codepen.io/zilleali?utm_source=explore-tab"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=zilleali&color=%230076D6&style=flat&logo=codepen&logoColor=%230076D6" alt="github.com/zilleali"/></a>
+ <a href="https://www.npmjs.com/~zilleali12"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="website"/></a>
  <img src="https://komarev.com/ghpvc/?username=your-github-zilleali&style=flat-square&color=blue" alt=""/>
-
- <a href="https://fiverr.com/zillealibutt"><img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white" alt="website"/></a>
+ <a href="https://fiverr.com/zillealibutt"><img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white" alt="fiverr.com/zillealibutt"/></a>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
