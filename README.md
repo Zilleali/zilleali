@@ -45,7 +45,8 @@ const zille = {
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zilleali&theme=dark&hide_border=true&mode=weekly&border=6F62DD&fire=DD2727)](https://git.io/streak-stats)
 
-
+### 👨‍🎓 RoadMap:
+[![roadmap.sh](https://roadmap.sh/card/wide/6771320c70129741a8e9b699?variant=dark)](https://roadmap.sh)
 
 
 
